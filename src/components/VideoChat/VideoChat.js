@@ -3,7 +3,10 @@ import React from "react";
 const VideoChat = props => {
   return (
     <div>
-      <div id="otEmbedContainer" style={{ width: "800px", height: "640px" }} />
+      <iframe
+        src="https://tokbox.com/embed/embed/ot-embed.js?embedId=9aad96ab-1297-4431-bd6a-b787c7cb14e0&room=DEFAULT_ROOM&iframe=true"
+        allow="microphone; camera"
+      />
     </div>
   );
 };
