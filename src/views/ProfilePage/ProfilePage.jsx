@@ -31,7 +31,7 @@ import work4 from "assets/img/examples/mariya-georgieva.jpg";
 import work5 from "assets/img/examples/clem-onojegaw.jpg";
 
 import profilePageStyle from "assets/jss/material-kit-react/views/profilePage.jsx";
-
+import VideoChat from "components/VideoChat/VideoChat";
 class ProfilePage extends React.Component {
   render() {
     const { classes, ...rest } = this.props;
@@ -81,12 +81,11 @@ class ProfilePage extends React.Component {
                 </GridItem>
               </GridContainer>
               <div className={classes.description}>
+                <VideoChat />
                 <p>
-                I am an 
-                  award winning
-                  Full Stack Web Developer and UI/UX Javascript specialist.
-                  Check out my blog articles, React.JS UI components
-                  . Based in Raleigh, NC. Enquires at 
+                  I am an award winning Full Stack Web Developer and UI/UX
+                  Javascript specialist. Check out my blog articles, React.JS UI
+                  components . Based in Raleigh, NC. Enquires at
                   Developer@hamzaelk.com{" "}
                 </p>
               </div>
