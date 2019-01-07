@@ -62,7 +62,7 @@ class ProfilePage extends React.Component {
                 <GridItem xs={12} sm={12} md={6}>
                   <div className={classes.profile}>
                     <div>
-                      <img src={profile} alt="..." className={imageClasses} />
+                      <img src={profile} alt="Hamza Elkhoudiri" className={imageClasses} />
                     </div>
                     <div className={classes.name}>
                       <h3 className={classes.title}>Hamza Elkhoudiri</h3>
@@ -102,24 +102,24 @@ class ProfilePage extends React.Component {
                           <GridContainer justify="center">
                             <GridItem xs={12} sm={12} md={4}>
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={studio1}
                                 className={navImageClasses}
                               />
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={studio2}
                                 className={navImageClasses}
                               />
                             </GridItem>
                             <GridItem xs={12} sm={12} md={4}>
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={studio5}
                                 className={navImageClasses}
                               />
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={studio4}
                                 className={navImageClasses}
                               />
@@ -134,29 +134,29 @@ class ProfilePage extends React.Component {
                           <GridContainer justify="center">
                             <GridItem xs={12} sm={12} md={4}>
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={work1}
                                 className={navImageClasses}
                               />
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={work2}
                                 className={navImageClasses}
                               />
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={work3}
                                 className={navImageClasses}
                               />
                             </GridItem>
                             <GridItem xs={12} sm={12} md={4}>
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={work4}
                                 className={navImageClasses}
                               />
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={work5}
                                 className={navImageClasses}
                               />
@@ -171,29 +171,29 @@ class ProfilePage extends React.Component {
                           <GridContainer justify="center">
                             <GridItem xs={12} sm={12} md={4}>
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={work4}
                                 className={navImageClasses}
                               />
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={studio3}
                                 className={navImageClasses}
                               />
                             </GridItem>
                             <GridItem xs={12} sm={12} md={4}>
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={work2}
                                 className={navImageClasses}
                               />
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={work1}
                                 className={navImageClasses}
                               />
                               <img
-                                alt="..."
+                                alt="Hamza Elkhoudiri"
                                 src={studio1}
                                 className={navImageClasses}
                               />
